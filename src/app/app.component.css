@@ -1,0 +1,8 @@
+.menu-container {
+    display: inline-block;
+  }
+
+  .menu-container1 {
+    position:inline-block;
+    padding: 3px;
+  }
